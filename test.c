@@ -22,6 +22,8 @@ int main( ) {
     strcpy( can2.name, "slah zaboula");
    strcpy( can2.symbol, "*"); 
     printf(" hay git hub \n ");
+ 
+ prtitf ("hay git hub again \n ");
    
  
    /* print Book1 info by passing address of Book1 */
