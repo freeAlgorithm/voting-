@@ -21,6 +21,7 @@ int main( ) {
    /* candite 2 specification */
     strcpy( can2.name, "slah zaboula");
    strcpy( can2.symbol, "*"); 
+    printf(" hay git hub \n ");
    
  
    /* print Book1 info by passing address of Book1 */
