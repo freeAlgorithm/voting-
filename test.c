@@ -7,6 +7,14 @@ struct candites {
   
 };
 
+void secuirity_function
+{
+printf"enter your name \n ";
+printf"now you can padd \n;
+}
+
+
+
 void printBook( struct candites *can );
 int main( ) {
 
